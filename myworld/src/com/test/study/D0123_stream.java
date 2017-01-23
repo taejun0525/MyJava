@@ -27,7 +27,7 @@ class Animal implements Serializable {
 
 public class D0123_stream {
 
-	public static void main(String ard[])  {
+	public static void main(String args[])  {
 		
 		
 		// -- ObjectOutputstream
